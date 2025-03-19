@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+# Serveurs web
+gem 'puma' 
+gem 'sinatra', '~> 4.1.1'
+gem "rackup", "~> 2.2"
